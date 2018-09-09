@@ -3,8 +3,8 @@ Archive of completed coding "challenges" from the [r/dailyprogrammer](https://ww
 
 Three challenges of varying difficulty are posted to the subreddit each week. I've begun with the Easy ones and will attempt Intermediate challenges as I see fit.
 
-Challenge # | Difficulty | Description | Link to solution 
---- | --- | --- | ---
+Challenge # | Difficulty | Link to solution 
+--- | --- | --- 
 [58](https://www.reddit.com/r/dailyprogrammer/comments/u8jn9/5282012_challenge_58_intermediate/) | Intermediate | tbd 
 [57](https://www.reddit.com/r/dailyprogrammer/comments/u4mki/5252012_challenge_57_intermediate/) | Intermediate | tbd 
 [57](https://www.reddit.com/r/dailyprogrammer/comments/u4mk4/5252012_challenge_57_easy/) | Easy | tbd 
@@ -31,7 +31,7 @@ Challenge # | Difficulty | Description | Link to solution
 [36](https://www.reddit.com/r/dailyprogrammer/comments/ruiob/452012_challenge_36_easy/) | Easy | tbd  
 [35](https://www.reddit.com/r/dailyprogrammer/comments/rr4y2/432012_challenge_35_easy/) | Easy | tbd 
 [34](https://www.reddit.com/r/dailyprogrammer/comments/rmmn8/3312012_challenge_34_easy/) | Easy | tbd
-[1](https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/) | Easy | [linkl](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy/1_e.py)
+[1](https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy/1_e.py)
 
 
 
