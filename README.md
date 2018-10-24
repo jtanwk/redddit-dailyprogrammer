@@ -31,12 +31,11 @@ Challenge # | Difficulty | Link to solution
 [36](https://www.reddit.com/r/dailyprogrammer/comments/ruiob/452012_challenge_36_easy/) | Easy | tbd  
 [35](https://www.reddit.com/r/dailyprogrammer/comments/rr4y2/432012_challenge_35_easy/) | Easy | tbd 
 [34](https://www.reddit.com/r/dailyprogrammer/comments/rmmn8/3312012_challenge_34_easy/) | Easy | tbd
-[9](https://www.reddit.com/r/dailyprogrammer/comments/pu1rf/2172012_challenge_9_easy/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy/9_e.py)
-[7](https://www.reddit.com/r/dailyprogrammer/comments/pr2xr/2152012_challenge_7_easy/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy/7_e.py)
-[4](https://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy/4_e.py)
-[3](https://www.reddit.com/r/dailyprogrammer/comments/pkw2m/2112012_challenge_3_easy/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy/3_e.py)
-[1](https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy/1_e.py)
-
+[9](https://www.reddit.com/r/dailyprogrammer/comments/pu1rf/2172012_challenge_9_easy/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy-challenges/9_e.py)
+[7](https://www.reddit.com/r/dailyprogrammer/comments/pr2xr/2152012_challenge_7_easy/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy-challenges/7_e.py)
+[4](https://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy-challenges/4_e.py)
+[3](https://www.reddit.com/r/dailyprogrammer/comments/pkw2m/2112012_challenge_3_easy/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy-challenges/3_e.py)
+[1](https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/) | Easy | [solution](https://github.com/jtanwk/reddit-dailyprogrammer/blob/master/easy-challenges/1_e.py)
 
 
 
